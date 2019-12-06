@@ -1,0 +1,140 @@
+		.pagemain {
+
+		border-style:  solid;
+		border-color: white;
+		background: white;
+		}
+
+
+		.foot {
+			width: 2000px
+			border-color: rgb(119, 119, 119); ;
+			background: :rgba(119,119,119,1.0);
+			padding: 10px;
+			border-style: solid;
+			
+		}
+
+		#infopage {
+
+			border-style: solid;
+			border-color:rgb(119, 119, 119);
+			background: rgb(119, 119, 119);	
+			width: 400px;
+			margin :
+
+		}
+
+	
+
+		.picpage {
+
+		border-style: solid;
+		border-color: white;
+		background: black;
+
+		}
+
+
+		#pict1{
+			margin: 4em 0em 0em 8em;
+		}
+
+
+		#pict2{
+
+			
+			margin: 4em 1em 0em 3em;
+
+		}
+		#pict3{
+			margin: 2em 0em 0em 8em;
+		}
+
+		#pict4{
+
+			margin: 4em 1em 0em 3em;
+		}
+
+		#pic5{
+
+		}
+
+
+
+		.topage {
+
+		border-style: solid;
+		border-color: black;
+		background: #000000;
+		}
+
+
+
+		#linetextlogo {
+
+			color:#FFBB19; 
+			margin-left: 11em;
+		}
+		
+		#iconfacebook {
+
+			margin-left: 63em;
+		}
+
+		#iconyoutube {
+			margin-left: 1.2em;
+		}
+
+
+
+		.boxtop {
+		border-style: solid;
+		border-color: white;
+		background: white;
+		width: 100%;
+		padding-bottom: 100px;
+
+		
+
+		}
+
+		.boxface {
+		border-style: solid;
+		border-color: white;
+		width: 1em; 
+		margin-right: 1em;
+		text-align: center;
+		margin-right:50px;
+		padding-left: 1em; 
+		}
+
+
+		.b1{
+
+		border-style: solid;
+		width: 100%;
+		padding : 10px;
+		height :10%;
+		margin : 0em 0em 0em 0em;
+		}
+		
+		.b2 {
+
+		border-style: solid;
+		width: 25%;
+		padding : 10px;
+		height :100%;
+
+		}
+		.b3 {
+
+		border-style: solid;
+		width: 25%;
+		padding : 10px;
+		height :500px;
+		float: right;
+
+
+		}	
+
